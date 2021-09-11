@@ -1,0 +1,40 @@
+.expense-date{
+    height: fit-content;
+    width: 80px;
+    border-radius: 4px;
+    border: 1px solid whitesmoke;
+    margin: 6px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.date-item{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
+    text-transform: capitalize;
+}
+
+.price-amount{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 4px;
+
+}
+
+.month-item{
+    font-size: small;
+    font-weight: bold;
+}
+
+.day-item{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.year-item{
+    font-size: x-small;
+    font-weight: bold;
+}
