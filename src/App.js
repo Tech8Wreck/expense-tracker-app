@@ -25,6 +25,12 @@ function App() {
   
   updateExpenses(newArray)
   // console.log(newArray)
+
+// ALTERNATIVE TO THE ABOVE TO UPDATING THE STATE WITH A NEW ARRAY
+// updateExpenses(prevExpenses =>{
+//   return [...prevExpenses, newExp]
+// })
+  
   }
   
   return (
